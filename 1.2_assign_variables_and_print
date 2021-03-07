@@ -1,0 +1,7 @@
+# Write a Python program that prints (displays): Your name, Address, Telephone number
+name = "VanessaOak"
+address = "California"
+number = "867-5309"
+print (name)
+print (address)
+print (number)
